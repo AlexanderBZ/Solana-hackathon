@@ -1,0 +1,25 @@
+{
+  "name": "WTF is Web3?",
+  "symbol": "WTF",
+  "description": "Collection of 10 NFT memberships for WTF is Web3? podcast. This is the number 5/10.",
+  "seller_fee_basis_points": 500,
+  "image": "4.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HdEu89xn2nw9m5bukT5CzjPeyegPW2haXDioqumnJWiC",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "WTF is Web3 podcast",
+    "family": "WTF is Web3 podcast"
+  }
+}

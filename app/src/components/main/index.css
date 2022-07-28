@@ -1,0 +1,121 @@
+.main-container {
+  background-color: black !important;
+  padding-top: 70px !important;
+  padding-bottom: 170px !important;
+}
+
+.main-text-1 {
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 61.21px !important;
+  line-height: 38px !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+  color: #ffffff !important;
+  padding-right: 40px !important;
+}
+
+.mnt-button {
+  width: 545px !important;
+  height: 47.47px !important;
+  background: #5865f2 !important;
+  border-radius: 3.60731px 3.60731px 3.60338px 3.60731px !important;
+  color: #fff !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 14.4293px !important;
+  margin-top: 30px !important;
+  border: none;
+}
+
+.main-text-2 {
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 22.2385px !important;
+  line-height: 30px !important;
+  display: flex !important;
+  align-items: center !important;
+  letter-spacing: -0.02em !important;
+  text-transform: uppercase !important;
+  color: #e6e6e6 !important;
+  padding-left: 85px !important;
+  padding-right: 40px !important;
+  padding-top: 40px !important;
+}
+
+.buy-now {
+  width: 545px !important;
+  height: 47.47px !important;
+  background: #5865f2 !important;
+  border-radius: 3.60731px 3.60731px 3.60338px 3.60731px !important;
+  color: #fff !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 14.4293px !important;
+  margin-top: 30px !important;
+}
+
+.main-image {
+  width: 70% !important;
+  height: auto;
+}
+
+.main-image2 {
+  width: 70% !important;
+  height: auto;
+}
+
+.main-item-1 {
+  height: 200px;
+}
+
+.display-none {
+  display: none !important;
+}
+
+@media (max-width: 1425px) {
+  .main-text-1 {
+    font-size: 46px !important;
+    padding-right: 0 !important;
+  }
+  .main-text-2 {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    text-align: center !important;
+  }
+}
+
+@media (max-width: 899px) {
+  .dispplay-show {
+    display: none !important;
+  }
+  .display-none {
+    display: flex !important;
+    justify-content: center !important;
+    margin-bottom: 60px !important;
+  }
+}
+
+@media (max-width: 425px) {
+  .main-text-1 {
+    font-size: 30px !important;
+  }
+
+  .main-text-2 {
+    font-size: 15px !important;
+    padding-top: 20px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  .mnt-button {
+    width: 90% !important;
+  }
+
+  .main-container {
+    padding-top: 50px !important;
+    padding-bottom: 170px !important;
+  }
+}
